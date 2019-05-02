@@ -9,20 +9,20 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Gaurav Makhecha",
-            "email": "info@freshbits.in"
+            "name": "tamim",
+            "email": "tamimibrahim17@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Freshbitsweb\\SlackErrorNotifier\\": "src/"
+            "Tamimibrahim17\\SlackErrorNotifier\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Freshbitsweb\\SlackErrorNotifier\\SlackErrorNotifierServiceProvider"
+                "Tamimibrahim17\\SlackErrorNotifier\\SlackErrorNotifierServiceProvider"
             ]
         }
     }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshbitsweb\SlackErrorNotifier;
+namespace Tamimibrahim17\SlackErrorNotifier;
 
 use Illuminate\Support\ServiceProvider;
 use Monolog\ErrorHandler;

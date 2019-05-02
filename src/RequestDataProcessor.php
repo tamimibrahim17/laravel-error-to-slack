@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshbitsweb\SlackErrorNotifier;
+namespace Tamimibrahim17\SlackErrorNotifier;
 
 class RequestDataProcessor
 {
